@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54797" started-at="2020-05-15T22:58:19 IST" finished-at="2020-05-15T22:59:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54797" started-at="2020-05-15T22:58:19 IST" finished-at="2020-05-15T22:59:14 IST">
+      <class name="demo4.TestNew1">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:demo4.TestNew1@3b084709]" name="beforetest" is-config="true" duration-ms="17877" started-at="2020-05-15T22:58:19 IST" finished-at="2020-05-15T22:58:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="signup()[pri:1, instance:demo4.TestNew1@3b084709]" name="signup" duration-ms="14016" started-at="2020-05-15T22:58:37 IST" finished-at="2020-05-15T22:58:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="doLogin()[pri:2, instance:demo4.TestNew1@3b084709]" name="doLogin" duration-ms="2579" started-at="2020-05-15T22:58:51 IST" finished-at="2020-05-15T22:58:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="TestCart()[pri:3, instance:demo4.TestNew1@3b084709]" name="TestCart" duration-ms="8968" started-at="2020-05-15T22:58:54 IST" finished-at="2020-05-15T22:59:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCart -->
+        <test-method status="PASS" signature="payment()[pri:4, instance:demo4.TestNew1@3b084709]" name="payment" duration-ms="11020" started-at="2020-05-15T22:59:03 IST" finished-at="2020-05-15T22:59:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:demo4.TestNew1@3b084709]" name="AfterTest" is-config="true" duration-ms="235" started-at="2020-05-15T22:59:14 IST" finished-at="2020-05-15T22:59:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- demo4.TestNew1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
